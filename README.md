@@ -1,5 +1,5 @@
 # links
 
-https://computingforgeeks.com/how-to-install-mariadb-on-ubuntu-focal-fossa/
+https://computingforgeeks.com/how-to-install-mariadb-on-ubuntu-focal-fossa/&nbsp;
 sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] http://archive.mariadb.org/mariadb-10.5.6/repo/ubuntu/ focal main'
 https://www.atlantic.net/vps-hosting/how-to-setup-mariadb-master-slave-replication-on-ubuntu-18-04/?__cf_chl_jschl_tk__=49250cd478182f6c7d1c882ba082ea61e2f1573f-1616568418-0-AdrJCG7Fg7Jaee1oQhbvkn7JR3EDJRbjuyNNRDcvJ1EIhqVoTMsNvaYSrtRePPRSvOEIGyhypao0PjLAHM1TNaYjO_7vYqRgi17lDCNU2OUngh9k0kZcmq6b3P_Xcduz9Qv7_D2u8Eb3j8b_yGlhvBEgJ2rPTFfia0rc8XVvAM_maS7zgF0CEIFox98Z7BXpa3QmVAUVxotuPKhgbH5XdBYUkriGXFHv7u-UfQ5aDVATClGPoS2u7VeYFvHM4FxW2PJbWZyTNFuLE3h6wKr6iJVAlKySnLtaMDPHDGjcGrG-x4cjVSx8lOT7nI1LChm-Vk6MiPeLlEd4u3e7FCmTknZJzAiyptNuPMQwr-gv3ON-ckVzA1wftnFhJauqgwzH5AtheDAiUDetMiykeNWfivmnsMhG6DZEXf05WxDSTGvu
